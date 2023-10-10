@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SanthoshBahadur/LavenderLace/static/css/main.02d80caa.css",
+    "main.js": "/SanthoshBahadur/LavenderLace/static/js/main.3298c02e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/SanthoshBahadur/LavenderLace/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/SanthoshBahadur/LavenderLace/index.html",
+    "main.02d80caa.css.map": "/SanthoshBahadur/LavenderLace/static/css/main.02d80caa.css.map",
+    "main.3298c02e.js.map": "/SanthoshBahadur/LavenderLace/static/js/main.3298c02e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/SanthoshBahadur/LavenderLace/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02d80caa.css",
+    "static/js/main.3298c02e.js"
+  ]
+}
